@@ -14,3 +14,4 @@ contracts/erc20_tutorial.sol
 
 Feel free to leave any issues and we will get back to you and help you out :) 
 
+Andrew: Replaced deprecated codes  
