@@ -114,7 +114,7 @@ contract GreatEagleToken is ERC20Interface, Owned, SafeMath {
     // ------------------------------------------------------------------------
     constructor () public {
         symbol = "GET";
-        name = "Great Eagle Token";
+        name = "GreatEagleToken";
         decimals = 18;
         _totalSupply = 100000000000000000000000000;
         balances[0x6E0Eb026Af741E0C5a4284E9a258716A4D72e538] = _totalSupply;
